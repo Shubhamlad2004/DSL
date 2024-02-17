@@ -8,6 +8,8 @@ class matrix
 		int a[10][10],b[10][10],c[10][10],i,j,r1,r2,c1,c2;
 	public: 
 	void creat(){
+        cout<<"Hello world";
+        cout<<"Hello";
 		cout<<"\n enter size of array1 : ";
 		cin>>r1>>c1;
 		cout<<"\n enter "<<r1*c1<<" elements \n";
